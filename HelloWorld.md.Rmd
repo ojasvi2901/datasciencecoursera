@@ -2,5 +2,9 @@
 output:
   pdf_document: default
   html_document: default
+title: "HelloWorld.md"
+author: "me"
+date: "24/03/2021"
+output: pdf_document
 ---
 ##This is a markdown file
